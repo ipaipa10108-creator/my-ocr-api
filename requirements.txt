@@ -2,3 +2,5 @@ fastapi
 uvicorn
 rapidocr_onnxruntime
 python-multipart
+Pillow
+numpy
